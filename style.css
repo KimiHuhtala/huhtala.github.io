@@ -1,6 +1,6 @@
 html,body {
   font-family: 'Raleway', sans-serif;
-  color: #aaa;
+  color: #dfe6e9;
   text-align: center;
   height: 100%;
   background: url(bgimg.jpg) no-repeat center center fixed; 
@@ -17,11 +17,13 @@ h1,h2 {
 
 h1 { 
 	font-size: 6vh; 
+  text-shadow: 1.5px 1.5px #d63031;
 }
 
 #intro {
   padding-top: 25vh;
   margin: auto;
+  height: 50%;
   width: 50%;
 }
 .topnav {
