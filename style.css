@@ -3,7 +3,7 @@ html,body {
   color: #dfe6e9;
   text-align: center;
   height: 100%;
-  background: url(bgimg.jpg) no-repeat center center fixed; 
+  background: url(bgimg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -15,11 +15,16 @@ h1,h2 {
 	margin: 0.4em 0;
 }
 
-h1 { 
-	font-size: 6vh; 
+h1 {
+	font-size: 6vh;
   text-shadow: 1.3px 1.3px #d63031;
 }
 
+h2 {
+  padding-top: 4vh;
+  text-shadow: 1.3px 1.3px #d63031;
+  font-size: 3vh;
+}
 #intro {
   padding-top: 25vh;
   margin: auto;
@@ -77,6 +82,6 @@ h1 {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 2.5rem;     
+    height: 2.5rem;
   }
 }
