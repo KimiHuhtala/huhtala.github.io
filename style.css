@@ -25,12 +25,30 @@ h2 {
   text-shadow: 1.3px 1.3px #d63031;
   font-size: 3vh;
 }
+
+h3 {
+  text-shadow: 1.3px 1.3px #d63031;
+  font-size: 3vh;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
 #intro {
   padding-top: 25vh;
   margin: auto;
   height: 50%;
   width: 50%;
 }
+
+#about {
+  padding-top: 10vh;
+  margin: auto;
+  height: 50%;
+  width: 50%;
+}
+
 .topnav {
   overflow: hidden;
 }
